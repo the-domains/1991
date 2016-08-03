@@ -1,0 +1,14 @@
+layout_spectrum: 0.48331638029776514
+typography_spectrum: 0.18974210135638714
+color:
+  brandStrength: 0.9249020118732005
+  lightness: 0.9313973707612604
+  saturation: 0.3330650383140892
+  rhythmicContrast: 0.21245967270806432
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: '1991'
